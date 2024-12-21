@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:society_management_app/models/json_data.dart';
+import 'package:visitor_management_app/models/json_data.dart';
 
 class Society {
   List<Block> blocks;
